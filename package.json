@@ -9,12 +9,10 @@
   "author": "",
   "license": "",
   "description": "",
-  "devDependencies": {
-    "grunt": "^1.2.1"
-  },
   "dependencies": {
     "@jmondi/url-to-png": "^2.1.2",
     "express": "^4.19.1",
+    "grunt": "^1.6.1",
     "request": "^2.88.2",
     "safe-eval": "^0.2.0"
   }
