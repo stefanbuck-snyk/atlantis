@@ -101,3 +101,6 @@ GET http://localhost:3000/proxy?url=http://example.com
 </html>
 ```
 
+---
+
+© 2026 Atlantis
