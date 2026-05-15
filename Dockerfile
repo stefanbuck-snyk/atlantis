@@ -1,4 +1,4 @@
-FROM node:18.12.0
+FROM node:18.20.4
 
 RUN mkdir /usr/src/app
 COPY . /usr/src/app
